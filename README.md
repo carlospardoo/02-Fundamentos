@@ -25,3 +25,10 @@ Etiqueta de react que funciona como un div contenedor y cuando se compila no gen
 
 ### PropTypes
 Se agregan al componente para asignar un tipo de dato a cada prop. Para evitar errores de tipado de dato.
+
+### Bundle
+Versión ya ejecutada para subir a producción. Empaquetador. En React se hace con webpack.
+
+```
+npm run build
+```
